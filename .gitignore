@@ -1,0 +1,15 @@
+# Project exclude paths
+/canal_clientedu/target/
+/common/common_utils/target/
+/common/service_base/target/
+/common/spring_security/target/
+/infrastructure/api_gateway/target/
+/serivce/service_acl/target/
+/serivce/service_cms/target/
+/serivce/service_edu/target/
+/serivce/service_msm/target/
+/serivce/service_order/target/
+/serivce/service_oss/target/
+/serivce/service_statistics/target/
+/serivce/service_ucenter/target/
+/serivce/service_vod/target/
